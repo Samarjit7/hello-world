@@ -1,2 +1,8 @@
 # hello-world
-for test purpose
+
+learning github
+
+created repository
+added fies
+
+
